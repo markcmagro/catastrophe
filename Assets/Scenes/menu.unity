@@ -504,11 +504,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22433668, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
       propertyPath: m_SizeDelta.x
-      value: 465.239838
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 22433668, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
       propertyPath: m_SizeDelta.y
-      value: 141.697418
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11418224, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
@@ -612,7 +612,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 139922, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11486046, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
       propertyPath: m_Text
@@ -697,6 +697,10 @@ Prefab:
     - target: {fileID: 11432940, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
       propertyPath: m_Text
       value: 'PROGRAMMERS: Alan Duca, Mario M. fONTES, Mark Magro'
+      objectReference: {fileID: 0}
+    - target: {fileID: 164008, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 45616935e4fe10f48b62da1347801a16, type: 2}
