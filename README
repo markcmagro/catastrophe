@@ -1,7 +1,22 @@
-Authors:
-Alan Duca
-Jean Brincat
-Etienne Bugeja
-Mario Madureira Fontes
-Daniel Karavolos
-Mark Magro
+README
+======
+
+# About
+This game was created to the Global Game Jam 2016.
+
+# About the game
+Welcome aboard Space-Station Vostoke tovarisch. Please take a seat and make yourself comfortable. Instructions will be given to you shortly.
+
+в катастрофе is a collaborative 4-player game in which players need to learn information from the game by trial-and-error and simultaneously communicate it to other players, all within a short time-frame. Victory can only be achieved once all players enter their sequence correctly.
+
+# More details and news
+
+[http://globalgamejam.org/2016/games/в-катастрофе](globalgamejam.org/2016/games/в-катастрофе)
+
+# Authors
+Alan Duca (Programming and Networking)
+Daniel (Game Design)
+Etienne Bugeja (Art)
+Mario (Programming and Menus)
+Mark (Programming and Networking)
+Jean (Audio and Design)
